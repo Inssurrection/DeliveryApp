@@ -1,5 +1,5 @@
-If you want to run a project, you sould also git clone yandexMapForDelivery repo in the same StudioProgect derectory as main project
-Also also you need higher then 2.18.4 version of flutter dart
+#If you want to run a project, you sould also git clone yandexMapForDelivery repo in the same StudioProgect derectory as main project
+#Also also you need higher then 2.18.4 version of flutter dart
 
 ![image](https://github.com/Inssurrection/DeliveryApp/assets/56091861/0bf9d512-3d17-4683-9738-018603d07bb9)
 
